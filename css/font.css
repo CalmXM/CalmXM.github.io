@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'ZhuZiAWan2';
     font-display: swap;
-    src: url('http://easy-video.top/assets/ZhuZiAWan2.3d930970.woff2') format("woff2");
+    src: url('https://cdn.jsdelivr.net/npm/wojano-cdn/ZhuZiAWan2.woff2') format("woff2");
 }
 
 body {
