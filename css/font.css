@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'ZhuZiAWan2';
+    font-display: swap;
+    src: url('http://easy-video.top/assets/ZhuZiAWan2.3d930970.woff2') format("woff2");
+}
+
+body {
+    font-family: 'ZhuZiAWan2'
+}
