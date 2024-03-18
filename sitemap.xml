@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://natsume3.com/search/index.html</loc>
+    <loc>http://natsume3.com/posts/3058579890/</loc>
     
-    <lastmod>2024-03-16</lastmod>
+    <lastmod>2024-03-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://natsume3.com/posts/3058579890/</loc>
+    <loc>http://natsume3.com/search/index.html</loc>
     
-    <lastmod>2024-03-13</lastmod>
+    <lastmod>2024-03-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,7 +58,7 @@
 
   <url>
     <loc>http://natsume3.com/</loc>
-    <lastmod>2024-03-16</lastmod>
+    <lastmod>2024-03-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -66,42 +66,42 @@
   
   <url>
     <loc>http://natsume3.com/tags/chatgpt/</loc>
-    <lastmod>2024-03-16</lastmod>
+    <lastmod>2024-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://natsume3.com/tags/chatgpt4/</loc>
-    <lastmod>2024-03-16</lastmod>
+    <lastmod>2024-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://natsume3.com/tags/chatgpt-plus/</loc>
-    <lastmod>2024-03-16</lastmod>
+    <lastmod>2024-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://natsume3.com/tags/openai/</loc>
-    <lastmod>2024-03-16</lastmod>
+    <lastmod>2024-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://natsume3.com/tags/wildcard/</loc>
-    <lastmod>2024-03-16</lastmod>
+    <lastmod>2024-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://natsume3.com/tags/%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1/</loc>
-    <lastmod>2024-03-16</lastmod>
+    <lastmod>2024-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
