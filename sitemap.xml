@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://natsume3.com/posts/3058579890/</loc>
+    
+    <lastmod>2024-04-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://natsume3.com/posts/3084142859/</loc>
     
     <lastmod>2024-04-03</lastmod>
@@ -32,15 +41,6 @@
     <loc>http://natsume3.com/categories/index.html</loc>
     
     <lastmod>2024-04-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://natsume3.com/posts/3058579890/</loc>
-    
-    <lastmod>2024-03-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
