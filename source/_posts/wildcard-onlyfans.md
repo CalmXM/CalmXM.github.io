@@ -2,6 +2,7 @@
 title: 如何订阅OnlyFans：OnlyFans无信用卡支付
 tags:
   - OnlyFans
+  - OnlyFans订阅
   - wildcard
 top_img: 'https://cdn.jsdelivr.net/gh/CalmXM/Images/img/onlyfans_top_img.jpg'
 cover: 'https://cdn.jsdelivr.net/gh/CalmXM/Images/img/onlyfans_cover.jpg'
