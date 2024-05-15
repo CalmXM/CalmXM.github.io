@@ -11,15 +11,6 @@
   </url>
   
   <url>
-    <loc>http://natsume3.com/posts/3560088769/</loc>
-    
-    <lastmod>2024-05-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://natsume3.com/posts/1923756027/</loc>
     
     <lastmod>2024-05-15</lastmod>
@@ -65,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://natsume3.com/categories/index.html</loc>
+    <loc>http://natsume3.com/about/index.html</loc>
     
     <lastmod>2024-05-15</lastmod>
     
@@ -74,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://natsume3.com/about/index.html</loc>
+    <loc>http://natsume3.com/categories/index.html</loc>
     
     <lastmod>2024-05-15</lastmod>
     
@@ -143,6 +134,27 @@
   </url>
   
   <url>
+    <loc>http://natsume3.com/tags/%E5%85%8D%E7%BF%BB%E5%A2%99/</loc>
+    <lastmod>2024-05-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://natsume3.com/tags/vpn/</loc>
+    <lastmod>2024-05-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://natsume3.com/tags/chatgpt%E9%9A%8F%E5%BF%83%E7%94%A8/</loc>
+    <lastmod>2024-05-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://natsume3.com/tags/OnlyFans/</loc>
     <lastmod>2024-05-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -172,27 +184,6 @@
   
   <url>
     <loc>http://natsume3.com/tags/PixivFANBOX%E6%94%AF%E4%BB%98/</loc>
-    <lastmod>2024-05-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://natsume3.com/tags/%E5%85%8D%E7%BF%BB%E5%A2%99/</loc>
-    <lastmod>2024-05-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://natsume3.com/tags/vpn/</loc>
-    <lastmod>2024-05-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://natsume3.com/tags/chatgpt%E9%9A%8F%E5%BF%83%E7%94%A8/</loc>
     <lastmod>2024-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
