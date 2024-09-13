@@ -1,15 +1,16 @@
 ---
 title: PixivFANBOX如何赞助创作者？
-date: 2024-04-10 16:46:16
 categories: 海外服务订阅
 tags:
-    - PixivFANBOX
-    - wildcard
-    - PixivFANBOX赞助
-    - 虚拟信用卡
-    - PixivFANBOX支付
+  - PixivFANBOX
+  - wildcard
+  - PixivFANBOX赞助
+  - 虚拟信用卡
+  - PixivFANBOX支付
 top_img: 'https://cdn.jsdelivr.net/gh/CalmXM/Images/img/wildcard_pixivFanBox_topImg.png'
 cover: 'https://cdn.jsdelivr.net/gh/CalmXM/Images/img/wildcard_pixivFanBox_cover.png'
+abbrlink: 1923756027
+date: 2024-04-10 16:46:16
 ---
 
 ## 什么是pixivFANBOX?
