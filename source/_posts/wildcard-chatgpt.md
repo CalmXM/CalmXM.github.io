@@ -20,7 +20,7 @@ date: 2024-02-28 22:19:41
 
 ## 升级ChatGPT Plus前提
 
-1. 曾留学霍格沃茨魔法学校，懂魔法。欢迎学习我的[魔法](https://y67w.cccc.gg/auth/register?code=AUCfGl)。
+1. 曾留学霍格沃茨魔法学校，懂魔法。欢迎学习我的[魔法](https://theme.revival.baby/register?code=7Fk5teeZ)。
 2. 有一个现成的OPENAI账户。网上有大量的注册教程，不会的话可以通过[关于我](https://calmxm.github.io/about/)找我协助。
 3. 虚拟信用卡。我使用的是[WildCard](https://bewildcard.com/i/IKUNCTRL)，通过这个链接注册，可以省一杯奶茶钱。
 

@@ -53,8 +53,7 @@ scoop config rm proxy
 
 ## 魔法
 
-[青森云](https://y67w.cccc.gg/auth/register?code=AUCfGl)
-[魔戒](https://mojie.me/#/register?code=PkgxllZ7)
+[涅槃云](https://theme.revival.baby/register?code=7Fk5teeZ)
 
 ## 微软拼音小鹤双拼
 
