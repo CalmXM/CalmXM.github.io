@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://natsume3.com/about/index.html</loc>
+    <loc>http://natsume3.com/categories/index.html</loc>
     
     <lastmod>2024-09-19</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://natsume3.com/categories/index.html</loc>
+    <loc>http://natsume3.com/about/index.html</loc>
     
     <lastmod>2024-09-19</lastmod>
     
@@ -143,27 +143,6 @@
   </url>
   
   <url>
-    <loc>http://natsume3.com/tags/%E5%85%8D%E7%BF%BB%E5%A2%99/</loc>
-    <lastmod>2024-10-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://natsume3.com/tags/vpn/</loc>
-    <lastmod>2024-10-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://natsume3.com/tags/chatgpt%E9%9A%8F%E5%BF%83%E7%94%A8/</loc>
-    <lastmod>2024-10-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://natsume3.com/tags/cursor/</loc>
     <lastmod>2024-10-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -192,14 +171,21 @@
   </url>
   
   <url>
-    <loc>http://natsume3.com/tags/OnlyFans/</loc>
+    <loc>http://natsume3.com/tags/%E5%85%8D%E7%BF%BB%E5%A2%99/</loc>
     <lastmod>2024-10-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://natsume3.com/tags/OnlyFans%E8%AE%A2%E9%98%85/</loc>
+    <loc>http://natsume3.com/tags/vpn/</loc>
+    <lastmod>2024-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://natsume3.com/tags/chatgpt%E9%9A%8F%E5%BF%83%E7%94%A8/</loc>
     <lastmod>2024-10-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -221,6 +207,20 @@
   
   <url>
     <loc>http://natsume3.com/tags/PixivFANBOX%E6%94%AF%E4%BB%98/</loc>
+    <lastmod>2024-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://natsume3.com/tags/OnlyFans/</loc>
+    <lastmod>2024-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://natsume3.com/tags/OnlyFans%E8%AE%A2%E9%98%85/</loc>
     <lastmod>2024-10-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
